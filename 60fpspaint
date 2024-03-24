@@ -1,0 +1,8 @@
+{
+  "fps": 60,
+  "frameHeight": 250,
+  "frameWidth": 250,
+  "imageHeight": 1500,
+  "imageWidth": 2500,
+  "numFrames": 60
+}
